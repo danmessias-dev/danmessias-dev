@@ -1,6 +1,6 @@
 # Hi 👋, I'm Daniel Amorim
 
-🚀 **Junior Software Engineer | JavaScript & .NET Specialist**  
+🚀 **Junior Software Engineer | Python & .ADVPL**  
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
@@ -13,9 +13,11 @@ I also create content and share knowledge on **software development, SaaS, and t
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/danmessias-dev">
-    <img src="https://img.shields.io/badge/GitHub-danmessias-dev-181717?style=for-the-badge&logo=github" />
-  </a>
+  <a href="https://github.com/daniel-amorimdev?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/daniel-amorimdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
  
   <a href="https://www.linkedin.com/in/daniel-amorimdev/">
     <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
