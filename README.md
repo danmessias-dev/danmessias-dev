@@ -1,27 +1,31 @@
-# Hi 👋, I'm Daniel Amorim
+# Hi 👋, I'm Daniel Messias
 
 🚀 **Junior Software Engineer | Python & .ADVPL**  
 🇧🇷 Brazil
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+I work with technology, system support, and software development, focusing on building efficient and reliable solutions.
+I have experience in **system analysis** , problem-solving, and process optimization, always aiming for better performance and organization.
 
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+I’m continuously learning and improving my skills in development, architecture, and modern technologies, seeking to grow and contribute to impactful solutions.
 
 ---
 
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/daniel-amorimdev?tab=followers">
+    </a> 
+    <a href="https://github.com/danmessias-dev?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/daniel-amorimdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
- 
-  <a href="https://www.linkedin.com/in/daniel-amorimdev/">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+            src="https://custom-icon-badges.demolab.com/github/followers/danmessias-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    <a href="https://github.com/danmessias-dev">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/danmessias-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
 </p>
 
 ---
@@ -36,23 +40,36 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ---
 
-## 🛠️ Tech Stack
-
-### Backend
-
-![ADVPL/TOTVS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![SQLServe](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![Python](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />)
-
-### DevOps & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
-![Postman](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />)
+### 🤖 Languages and Technologies
+---
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Postman" 
+    title="Postman"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+/>
+<br/>
+<br/>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="left">
