@@ -8,8 +8,6 @@ I have experience in **system analysis** , **problem-solving**, and **process op
 
 I’m continuously learning and improving my skills in development, architecture, and modern technologies, seeking to grow and contribute to impactful solutions.
 
----
-
 ## 🌐 Where to find me
 
 <p align="left">
