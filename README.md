@@ -19,12 +19,6 @@ I’m continuously learning and improving my skills in development, architecture
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/danmessias-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
-    <a href="https://github.com/danmessias-dev">
-        <img 
-            alt="Stars" 
-            title="Stars GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/danmessias-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=Stars&label=Stars"
-        />
     <a href="https://www.linkedin.com/in/daniel-amorimdev/" target="_blank">
     <img 
         src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
